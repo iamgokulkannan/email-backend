@@ -33,3 +33,4 @@ ContactSection.tsx
 /dist
 /email-backend
 .email-backend
+.env
