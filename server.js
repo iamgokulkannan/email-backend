@@ -22,7 +22,7 @@ app.post('/api/contact', async (req, res) => {
     secure: true, // use SSL
     auth: {
       user: 'info@lunotech.in',       // your Zoho email
-      pass: ''            
+      pass: 'qRc7zsAscje6'            
     }
   });
 
